@@ -200,7 +200,7 @@ if(isset($_POST["submit"]))
                   <i class="icon-globe"></i>
                 </div>
                 <div class="fh5co-text">
-                  <p><a href="https://https://badrcv.netlify.app/" target="blank">https://badrcv.netlify.app</a><br>
+                  <p><a href="https://https://badrcv.netlify.app/" target="blank">https://badr.app</a><br>
                 <a href="mailto:ibadr365@gmail.com">ibadr465@gmail.com</a>
                   </p>
                 </div>
