@@ -103,14 +103,14 @@ if(isset($_POST["submit"]))
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <title>Badr &mdash; بَـــــدر </title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="islambadr.ml" />
-  <meta name="keywords" content="islambadr.ml" />
-  <meta name="author" content="islambadr.ml" />
+  <meta name="description" content="https://badrcv.netlify.app/" />
+  <meta name="keywords" content="https://badrcv.netlify.app/" />
+  <meta name="author" content="https://badrcv.netlify.app/" />
 
     <!-- 
   //////////////////////////////////////////////////////
     
-  Website:    http://islambadr.ml/
+  Website:    http://https://badrcv.netlify.app/
   Email:      ibadr365@gmail.com
 
   //////////////////////////////////////////////////////
@@ -163,10 +163,10 @@ if(isset($_POST["submit"]))
     <a href="#" class="js-fh5co-nav-toggle fh5co-nav-toggle"><i></i></a>
     <aside id="fh5co-aside" role="complementary" class="border js-fullheight">
 
-      <h1 id="fh5co-logo"><a href="https://islambadr.ml/">badr</a></h1>
+      <h1 id="fh5co-logo"><a href="https://https://badrcv.netlify.app//">badr</a></h1>
       <nav id="fh5co-main-menu" role="navigation">
         <ul>
-          <li><a href="https://islambadr.ml/">Home</a></li>
+          <li><a href="https://https://badrcv.netlify.app/">Home</a></li>
           <li><a href="about">About</a></li>
           <li><a href="portfolio">Portfolio</a></li>
           <li><a href="skills">Skills</a></li>
@@ -200,7 +200,7 @@ if(isset($_POST["submit"]))
                   <i class="icon-globe"></i>
                 </div>
                 <div class="fh5co-text">
-                  <p><a href="https://islambadr.ml/" target="blank">https://islambadr.ml</a><br>
+                  <p><a href="https://https://badrcv.netlify.app/" target="blank">https://badrcv.netlify.app</a><br>
                 <a href="mailto:ibadr365@gmail.com">ibadr465@gmail.com</a>
                   </p>
                 </div>
