@@ -3,7 +3,7 @@ TITLE:
 BADR بَــــــدر  ـــــــــ
 
 
-Website: https://islambadr.ml
+Website: https://badrcv.netlify.app
 Twitter: https://twitter.com/Islamba37835211
 Facebook: https://www.facebook.com/eslam.badr.3726
 
